@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ï†²8²åúù/
+T
+java:S1874"2Remove this use of "Observable"; it is deprecated.(ú±„øÿÿÿÿ8²åúù/
+O
+java:S1068"-Remove this unused "orderType" private field.(£à¿´ıÿÿÿÿ8°†°Éƒ/

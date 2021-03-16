@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ï†²8ˆ¾èÿ.
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³¢À×
+R
+java:S1874"2Remove this use of "Observable"; it is deprecated.(ú±„øÿÿÿÿ8¾Úáåÿ.
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(÷„òñÿÿÿÿÿ8¼‡èéÿ.
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ß£Œàûÿÿÿÿ8ñúèéÿ.
