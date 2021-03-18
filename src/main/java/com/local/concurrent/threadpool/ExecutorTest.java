@@ -1,5 +1,7 @@
 package com.local.concurrent.threadpool;
 
+import java.util.Collections;
+import java.util.List;
 import java.util.Objects;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -21,9 +23,6 @@ public class ExecutorTest {
         while(!executorService.awaitTermination(1, TimeUnit.SECONDS)){
             System.out.println("线程还在执行。");
         }
-
-        Objects.equals("1", "2");
-
     }
 
     static Runnable createRun(int threadNo) {
