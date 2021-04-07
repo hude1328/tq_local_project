@@ -21,3 +21,7 @@ h
 8src/main/java/com/local/designpattern/observer/Test.java,f/1/f1b28d61584c286278c023ecbd7c32df7e08d93c
 o
 ?src/main/java/com/local/concurrent/threadpool/ExecutorTest.java,9/7/97ba02725f0749dbda14a2de58f7f32bfd3055d0
+]
+-src/main/java/com/local/basic/BasicClass.java,2/b/2b4eb3ba403afa918905148d913bdcfd19e8eeec
+]
+-src/main/java/com/local/java8/ModelIFace.java,e/b/eb3ca9298436fbf60f8f00d71a0946afce989fb0

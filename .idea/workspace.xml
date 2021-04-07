@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db4654f9-6bc8-43ef-a573-09158deab7ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b4eb3ba403afa918905148d913bdcfd19e8eeec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/97ba02725f0749dbda14a2de58f7f32bfd3055d0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/97ba02725f0749dbda14a2de58f7f32bfd3055d0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/local/concurrent/threadpool/ExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/local/concurrent/threadpool/ExecutorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/local/java8/ModelIFace.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +37,8 @@
   </component>
   <component name="ProjectId" id="1pHtqggA87gIcs4oSnAEX3In0uH" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -47,6 +51,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -61,13 +66,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExecutorTest">
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="BasicClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.local.basic.BasicClass" />
+      <module name="local-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.local.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExecutorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.local.concurrent.threadpool.ExecutorTest" />
       <module name="localproject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.local.concurrent.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.local.java8.iface.Test" />
+      <module name="local-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.local.java8.iface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,7 +121,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.ExecutorTest" />
+        <item itemvalue="Application.BasicClass" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -112,8 +145,22 @@
       <workItem from="1615808843642" duration="1116000" />
       <workItem from="1615866882302" duration="203000" />
       <workItem from="1615968306845" duration="1180000" />
-      <workItem from="1616052187573" duration="1721000" />
+      <workItem from="1616052187573" duration="2995000" />
+      <workItem from="1616121319459" duration="4378000" />
+      <workItem from="1616469289069" duration="502000" />
+      <workItem from="1617343647470" duration="1098000" />
+      <workItem from="1617349341830" duration="1938000" />
+      <workItem from="1617364574687" duration="601000" />
+      <workItem from="1617784070018" duration="872000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1617365059528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617365059528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,5 +178,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>

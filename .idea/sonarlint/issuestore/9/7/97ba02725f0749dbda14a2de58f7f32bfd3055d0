@@ -1,3 +1,13 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¹©ç8©Î¢‚/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÄãÜÿÿÿÿÿ8©Î¢‚/
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ˆØ£Œ‰/
+a
+java:S1128
+"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ8ˆØ£Œ‰/
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8»™¹©„/
+X	java:S125"<This block of commented-out lines of code should be removed.(‘—¬8ˆØ£Œ‰/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ÊÄãÜÿÿÿÿÿ8©Î¢‚/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(Ú¤ƒ‹8Ä¾¤Œ‰/
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8Ãù¹©„/
