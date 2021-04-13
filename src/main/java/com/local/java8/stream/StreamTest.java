@@ -18,6 +18,8 @@ public class StreamTest {
 
         /**
          * filter() collect() sort()
+         * Collectors.groupingBy
+         * Comparator.comparing
          */
         int sum = list.stream().filter(s -> s.isProperty3()).mapToInt(Model::getProperty1).sum();
         int sum2 = list.stream().parallel().map(Model::getProperty1).reduce(0, Integer::sum);

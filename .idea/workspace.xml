@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db4654f9-6bc8-43ef-a573-09158deab7ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b4eb3ba403afa918905148d913bdcfd19e8eeec" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b4eb3ba403afa918905148d913bdcfd19e8eeec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/97ba02725f0749dbda14a2de58f7f32bfd3055d0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/97ba02725f0749dbda14a2de58f7f32bfd3055d0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb3ca9298436fbf60f8f00d71a0946afce989fb0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/local/java8/iface/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/local/java8/iface/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="db4654f9-6bc8-43ef-a573-09158deab7ea" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +162,7 @@
       <workItem from="1617788260078" duration="2880000" />
       <workItem from="1617864252039" duration="1184000" />
       <workItem from="1617961257092" duration="681000" />
-      <workItem from="1618295029274" duration="3028000" />
+      <workItem from="1618295029274" duration="3290000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1617365059528</created>
