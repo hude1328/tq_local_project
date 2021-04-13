@@ -24,4 +24,8 @@ o
 ]
 -src/main/java/com/local/basic/BasicClass.java,2/b/2b4eb3ba403afa918905148d913bdcfd19e8eeec
 ]
--src/main/java/com/local/java8/ModelIFace.java,e/b/eb3ca9298436fbf60f8f00d71a0946afce989fb0
+-src/main/java/com/local/java8/iface/Test.java,8/b/8b4621605dada3c89b9e26a062dfb5562ff2021b
+c
+3src/main/java/com/local/java8/iface/Defaulable.java,1/7/173acc479d92455555466439d6652064b31948fa
+j
+:src/main/java/com/local/java8/iface/DefaulableFactory.java,f/b/fb25f8fe0ee4e9683f0e474786e6bf52c639ccfe
